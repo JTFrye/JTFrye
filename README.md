@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JTFrye
-- 👀 I’m interested in VR, game engines, emulation and general programming work/employment. Creating the 'Universe Engine'.
-- 🌱 I’m currently learning Django/DRF/React for work.
-- 💞️ I’m looking to collaborate on general opensource projects.
+- 👀 I’m interested in VR, game engines, emulation and general programming work/employment. Creating the 'Universe Engines'.
+- 🌱 I’m currently building a Django API in healthcare, contract expires soon.
+- 💞️ I’m looking to collaborate on opensource projects related to experimental tech or for betterment of humanity.
 - 📫 How to reach me : FryeUE.com!
 
 <!---
